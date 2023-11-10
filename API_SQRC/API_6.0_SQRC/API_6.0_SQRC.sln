@@ -11,10 +11,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repositories_Domain_SQRC", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repositories_Infrastructure_SQRC", "..\Repositories_Infrastructure_SQRC\Repositories_Infrastructure_SQRC.csproj", "{7496DF61-A0B1-4B78-84F3-D0932565077F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-GateWay", "..\API-GateWay\API-GateWay.csproj", "{302F8254-70E4-4415-8777-8AEFAA88AFA5}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtherController", "..\OtherController\OtherController.csproj", "{80726382-921C-443F-AA9B-5EF3FA0033E5}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,14 +33,6 @@ Global
 		{7496DF61-A0B1-4B78-84F3-D0932565077F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7496DF61-A0B1-4B78-84F3-D0932565077F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7496DF61-A0B1-4B78-84F3-D0932565077F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{302F8254-70E4-4415-8777-8AEFAA88AFA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{302F8254-70E4-4415-8777-8AEFAA88AFA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{302F8254-70E4-4415-8777-8AEFAA88AFA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{302F8254-70E4-4415-8777-8AEFAA88AFA5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{80726382-921C-443F-AA9B-5EF3FA0033E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{80726382-921C-443F-AA9B-5EF3FA0033E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{80726382-921C-443F-AA9B-5EF3FA0033E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{80726382-921C-443F-AA9B-5EF3FA0033E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

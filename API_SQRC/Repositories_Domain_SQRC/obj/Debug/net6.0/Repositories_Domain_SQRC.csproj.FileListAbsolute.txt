@@ -12,3 +12,17 @@ C:\Users\HOANG\source\repos\Repositories_Domain_SQRC\obj\Debug\net6.0\refint\Rep
 C:\Users\HOANG\source\repos\Repositories_Domain_SQRC\obj\Debug\net6.0\Repositories_Domain_SQRC.pdb
 C:\Users\HOANG\source\repos\Repositories_Domain_SQRC\obj\Debug\net6.0\Repositories_Domain_SQRC.genruntimeconfig.cache
 C:\Users\HOANG\source\repos\Repositories_Domain_SQRC\obj\Debug\net6.0\ref\Repositories_Domain_SQRC.dll
+C:\Users\HOANG\Documents\GitHub\API_SQRC\API_SQRC\Repositories_Domain_SQRC\bin\Debug\net6.0\Repositories_Domain_SQRC.deps.json
+C:\Users\HOANG\Documents\GitHub\API_SQRC\API_SQRC\Repositories_Domain_SQRC\bin\Debug\net6.0\Repositories_Domain_SQRC.runtimeconfig.json
+C:\Users\HOANG\Documents\GitHub\API_SQRC\API_SQRC\Repositories_Domain_SQRC\bin\Debug\net6.0\Repositories_Domain_SQRC.dll
+C:\Users\HOANG\Documents\GitHub\API_SQRC\API_SQRC\Repositories_Domain_SQRC\bin\Debug\net6.0\Repositories_Domain_SQRC.pdb
+C:\Users\HOANG\Documents\GitHub\API_SQRC\API_SQRC\Repositories_Domain_SQRC\obj\Debug\net6.0\Repositories_Domain_SQRC.csproj.AssemblyReference.cache
+C:\Users\HOANG\Documents\GitHub\API_SQRC\API_SQRC\Repositories_Domain_SQRC\obj\Debug\net6.0\Repositories_Domain_SQRC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOANG\Documents\GitHub\API_SQRC\API_SQRC\Repositories_Domain_SQRC\obj\Debug\net6.0\Repositories_Domain_SQRC.AssemblyInfoInputs.cache
+C:\Users\HOANG\Documents\GitHub\API_SQRC\API_SQRC\Repositories_Domain_SQRC\obj\Debug\net6.0\Repositories_Domain_SQRC.AssemblyInfo.cs
+C:\Users\HOANG\Documents\GitHub\API_SQRC\API_SQRC\Repositories_Domain_SQRC\obj\Debug\net6.0\Repositories_Domain_SQRC.csproj.CoreCompileInputs.cache
+C:\Users\HOANG\Documents\GitHub\API_SQRC\API_SQRC\Repositories_Domain_SQRC\obj\Debug\net6.0\Repositories_Domain_SQRC.dll
+C:\Users\HOANG\Documents\GitHub\API_SQRC\API_SQRC\Repositories_Domain_SQRC\obj\Debug\net6.0\refint\Repositories_Domain_SQRC.dll
+C:\Users\HOANG\Documents\GitHub\API_SQRC\API_SQRC\Repositories_Domain_SQRC\obj\Debug\net6.0\Repositories_Domain_SQRC.pdb
+C:\Users\HOANG\Documents\GitHub\API_SQRC\API_SQRC\Repositories_Domain_SQRC\obj\Debug\net6.0\Repositories_Domain_SQRC.genruntimeconfig.cache
+C:\Users\HOANG\Documents\GitHub\API_SQRC\API_SQRC\Repositories_Domain_SQRC\obj\Debug\net6.0\ref\Repositories_Domain_SQRC.dll

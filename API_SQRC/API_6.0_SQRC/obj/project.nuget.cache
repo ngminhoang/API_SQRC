@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9XTPh86Ifxk2h3fSlRnmqSOmNiUjaaB4rLpItq2xLjD1jqJW2JGHQbXN59TF1vtqeDOHFxZsXT1w+KLou72ioQ==",
+  "dgSpecHash": "ZGxolcjqdnlUrpUgT1lsIdLnRxPdw6405Gvm2tK3g7N97uD0f/FXqmEwF8b/cCiUZT/t9v9Zc3h4nIwk0enSIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HOANG\\source\\repos\\API_6.0_SQRC\\API_6.0_SQRC.csproj",
+  "projectFilePath": "C:\\Users\\HOANG\\Documents\\GitHub\\API_SQRC\\API_SQRC\\API_6.0_SQRC\\API_6.0_SQRC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HOANG\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\HOANG\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
