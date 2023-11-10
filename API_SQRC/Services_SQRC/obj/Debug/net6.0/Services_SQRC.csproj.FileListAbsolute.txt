@@ -1,0 +1,17 @@
+C:\Users\HOANG\source\repos\Services_SQRC\obj\Debug\net6.0\Services_SQRC.csproj.AssemblyReference.cache
+C:\Users\HOANG\source\repos\Services_SQRC\obj\Debug\net6.0\Services_SQRC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOANG\source\repos\Services_SQRC\obj\Debug\net6.0\Services_SQRC.AssemblyInfoInputs.cache
+C:\Users\HOANG\source\repos\Services_SQRC\obj\Debug\net6.0\Services_SQRC.AssemblyInfo.cs
+C:\Users\HOANG\source\repos\Services_SQRC\obj\Debug\net6.0\Services_SQRC.csproj.CoreCompileInputs.cache
+C:\Users\HOANG\source\repos\Services_SQRC\bin\Debug\net6.0\Services_SQRC.deps.json
+C:\Users\HOANG\source\repos\Services_SQRC\bin\Debug\net6.0\Services_SQRC.dll
+C:\Users\HOANG\source\repos\Services_SQRC\bin\Debug\net6.0\Services_SQRC.pdb
+C:\Users\HOANG\source\repos\Services_SQRC\bin\Debug\net6.0\Repositories_Domain_SQRC.dll
+C:\Users\HOANG\source\repos\Services_SQRC\bin\Debug\net6.0\Repositories_Infrastructure_SQRC.dll
+C:\Users\HOANG\source\repos\Services_SQRC\bin\Debug\net6.0\Repositories_Domain_SQRC.pdb
+C:\Users\HOANG\source\repos\Services_SQRC\bin\Debug\net6.0\Repositories_Infrastructure_SQRC.pdb
+C:\Users\HOANG\source\repos\Services_SQRC\obj\Debug\net6.0\Services_SQRC.csproj.CopyComplete
+C:\Users\HOANG\source\repos\Services_SQRC\obj\Debug\net6.0\Services_SQRC.dll
+C:\Users\HOANG\source\repos\Services_SQRC\obj\Debug\net6.0\refint\Services_SQRC.dll
+C:\Users\HOANG\source\repos\Services_SQRC\obj\Debug\net6.0\Services_SQRC.pdb
+C:\Users\HOANG\source\repos\Services_SQRC\obj\Debug\net6.0\ref\Services_SQRC.dll
